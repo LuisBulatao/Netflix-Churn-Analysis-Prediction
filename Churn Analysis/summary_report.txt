@@ -1,0 +1,6 @@
+# Summary Report 
+- A significant number of customers are churning from their Netflix subscriptions.
+- Customers with a Basic subscription plan show the highest churn rate.
+- Cryptocurrency users exhibit a higher tendency to churn.
+- Laptop users account for the majority of churned customers.
+- The LogisticRegression Model achieved 90% accuracy
